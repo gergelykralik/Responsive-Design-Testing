@@ -1,4 +1,4 @@
-var defaultURL = 'responsive.kg9.eu'; //<---- CHANGE TO YOUR WEBSITE URL
+var defaultURL = 'www.kg9.eu'; //<---- CHANGE TO YOUR WEBSITE URL
 
 //show loading graphic
 function showLoader(id) {
